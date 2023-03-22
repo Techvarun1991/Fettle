@@ -1,0 +1,70 @@
+a {
+    text-decoration: none;
+  }
+  #logsignbtn {
+    margin-right: 3vh;
+  }
+  #logo {
+    margin-left: 20px;
+  }
+  #navs {
+    background-color: #3a24f0;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+  }
+  .navigationbar {
+    position: sticky;
+    top: 0;
+  }
+  *{
+    font-family: "Nunito Sans", sans-serif;
+  }
+  .section-header {
+    padding-bottom: 75px;
+    text-align: center;
+}
+.focus .row .focus-box, .our-team .row .team-box {
+  display: inline-block;
+  float: none!important;
+  margin-right: -4px;
+  margin-bottom: 25px;
+  vertical-align: top;
+}
+.focus-box .service-icon {
+  display: block;
+  position: relative;
+  width: 145px;
+  height: 145px;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-bottom: 20px;
+  border: 10px solid #ececec;
+  border-radius: 50%;
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+a:visited {
+  color: #e96656;
+}
+a {
+  color: #e96656;
+}
+a, a:hover {
+  text-decoration: none;
+}
+.focus-box h3 {
+  display: inline-block;
+  float: none;
+  position: relative;
+  width: auto;
+  margin-bottom: 15px;
+  margin-bottom: 30px;
+  color: #404040;
+  background: 0 0;
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
